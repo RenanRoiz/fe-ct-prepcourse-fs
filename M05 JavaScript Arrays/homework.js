@@ -196,7 +196,7 @@ function mayorACien(array) {
    for (i=0;i<array.length;i++){
       if (array[i]>100){
          mas100.push(array[i]);
-      }
+      } 
    }
    return mas100;
 }
